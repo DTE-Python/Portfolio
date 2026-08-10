@@ -9,3 +9,7 @@ The different folders in this repository are each focused on a different project
 #### <a href="https://github.com/DTE-Python/Portfolio/tree/main/Twith%20WebApp">Twitch WebApp</a>
 
 #### <a href="https://github.com/DTE-Python/GB-TileSetMaker">GBDK Image to Tileset Converter</a>
+
+#### <a href="https://github.com/DTE-Python/Down_To_Earth-Near_and_Far">Old Game Concept</a>
+
+#### <a href="tilde.town/~shaymim">Tilde.Town page (I experiment w/ HTML there sometimes)</a>
